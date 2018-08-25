@@ -1,2 +1,0 @@
-Javascript Assignment
--James Rho
